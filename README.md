@@ -1,4 +1,4 @@
-# Deep-Generative-Models-research.github
+# Deep-Generative-Models-research
 
 
 [HUFS_Deep-Generativae-Models-research Team_Notion](https://www.notion.so/10b0afd4e0c58027a322f0ae2744d80e)
