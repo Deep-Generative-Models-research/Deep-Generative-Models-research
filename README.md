@@ -48,6 +48,7 @@ Alzheimer’s Disease (AD) · Text-Guided Image Generation
 · Brain MRI Generation.
 
 ```bash
+# Benchmark Research 
 Frequency-Controlled Diffusion Model for Versatile Text-Guided Image-to-Image Translation (AAAI 2024)
 Diffusion-based: DiffusionCLIP (CVPR 2022)
 Stable Diffusion (CVPR 2022)
